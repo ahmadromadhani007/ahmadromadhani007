@@ -2,7 +2,7 @@
 
 I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Engineer focusing on building robust, scalable, and user-centric applications.
 
-- 👨‍🏫 **Permanent Lecturer** at **S1 Software Engineering (Rekayasa Perangkat Lunak)**
+- 👨‍🏫 **Lecturer** at **S1 Software Engineering (Rekayasa Perangkat Lunak)**
 - 🏛️ **Faculty of Science, Technology and Industry, Institute of Technology and Science Mandala (ITS Mandala)**
 - 📖 Teaching Focus: **Software Engineering, Artificial Intelligence, & Data Science**
 - 🛠️ Tech Stack: PHP, Laravel, Python, JavaScript, Streamlit, Frameworks & Web Dev
