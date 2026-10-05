@@ -3,14 +3,14 @@
 I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Engineer focusing on building robust, scalable, and user-centric applications.
 
 - 👨‍🏫 **Permanent Lecturer** at **S1 Software Engineering (Rekayasa Perangkat Lunak)**
-- 🏛️ **Faculty of Science, Technology and Industry**, Institut Teknologi dan Sains Mandala (ITS Mandala)
-- 📖 Teaching Focus: **IT Project Management** & Software Engineering
+- 🏛️ **Faculty of Science, Technology and Industry, Institute of Technology and Science Mandala (ITS Mandala)**
+- 📖 Teaching Focus: **Software Engineering, Artificial Intelligence, & Data Science**
 - 🛠️ Tech Stack: PHP, Laravel, Python, JavaScript, Streamlit, Frameworks & Web Dev
 
 ---
 
 ### 🌐 Socials:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadromadhanny/)
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tekajeloading.blogspot.com/)
 
 ---
