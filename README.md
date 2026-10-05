@@ -5,7 +5,7 @@ I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Eng
 - 👨‍🏫 **Lecturer** at **S1 Software Engineering**
 - 🏛️ **Faculty of Science, Technology and Industry, Institute of Technology and Science Mandala**
 - 📖 **Software Engineering, Artificial Intelligence, & Data Science**
-- 🛠️ **PHP, Laravel, Python, JavaScript, Streamlit, Frameworks & Web Dev**
+- 🛠️ **PHP, Laravel, Python, JavaScript, Streamlit, MySQL, REST API, UI/UX, Frameworks & Web Development**
 
 ---
 
@@ -20,6 +20,9 @@ I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Eng
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -27,7 +30,6 @@ I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Eng
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadromadhani007&show_icons=true&theme=dark" alt="Ahmad Romadhani's GitHub Stats" />
