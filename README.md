@@ -4,8 +4,8 @@ I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Eng
 
 - 👨‍🏫 **Lecturer** at **S1 Software Engineering**
 - 🏛️ **Faculty of Science, Technology and Industry, Institute of Technology and Science Mandala**
-- 📖 Teaching Focus: **Software Engineering, Artificial Intelligence, & Data Science**
-- 🛠️ Tech Stack: PHP, Laravel, Python, JavaScript, Streamlit, Frameworks & Web Dev
+- 📖 **Software Engineering, Artificial Intelligence, & Data Science**
+- 🛠️ **PHP, Laravel, Python, JavaScript, Streamlit, Frameworks & Web Dev**
 
 ---
 
@@ -40,4 +40,4 @@ I'm **Ahmad Romadhani, S.Kom., M.Kom.**, a passionate IT Lecturer & Software Eng
 ---
 
 ### 🏆 GitHub Trophies:
-[![github trophy](https://github-profile-trophy.vercel.app/?username=ahmadromadhani007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=ahmadromadhani007&theme=onedark)](https://github.com/ahmadromadhani007?tab=achievements)
